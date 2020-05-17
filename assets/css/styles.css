@@ -247,7 +247,7 @@ select {
 
 /* ====== Header ====== */
 .header {
-  background: #494d55;
+  background:  #004DA6;
   color: rgba(255, 255, 255, 0.85);
   border-top: 5px solid #40babd;
   padding: 30px 0;
@@ -927,6 +927,7 @@ select {
   display: block;
   padding: 5px 15px;
   color: #616670;
+  font-size: 18px;
 }
 
 .doc-menu .nav-link:hover, .doc-menu .nav-link:focus {
@@ -978,7 +979,7 @@ select {
 
 .doc-sub-menu .nav-link {
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 15px;
   display: block;
   color: #616670;
   padding: 0;
